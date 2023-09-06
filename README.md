@@ -31,3 +31,6 @@
 
 23. Feature-1 1 commit!!
 24. Fe ature-1 2 commit!!
+
+25. feature-2 1 commit!!
+26. feature-2 2 commit!!
